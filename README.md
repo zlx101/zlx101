@@ -49,6 +49,20 @@ Status follows the [works page](https://yscai101.com/works.html).
 | MXMY · 秘心秘语 | 本地优先的私人日记。A local-first private journal. | 开发中 / In development |
 | SayType | 说话即打字，在任意应用中粘贴。Speak to type, then paste in any app. | 开发中 / In development |
 
+## 🔧 精选工具 / Featured tools
+
+站点页脚已挂上的工具。前四个在浏览器本地处理，不上传。
+
+Tools already listed in the site footer. The first four run in the browser and are not uploaded.
+
+| 工具 | 说明 |
+| --- | --- |
+| [图片转PDF](https://yscai101.com/img2pdf.html) | 在浏览器里把图片转成 PDF。图片留在本机，不会上传。Turn images into a PDF in the browser. Images are not uploaded. |
+| [Base64转换工具](https://yscai101.com/base64.html) | 文本和图片的 Base64 编码转换。数据不会上传。Encode and decode Base64 for text and images in the browser. Data is not uploaded. |
+| [网盘资源转JSON](https://yscai101.com/wpzy-json.html) | 把网盘分享文本转成 JSON。数据留在本机，不会上传。Turn cloud-disk share text into JSON in the browser. Data is not uploaded. |
+| [高考倒计时](https://yscai101.com/gaokao.html) | 2027 年高考倒计时，按北京时间计算。Countdown to the 2027 Gaokao, using Beijing time. |
+| [PDF转链接](https://yscai101.com/pdf2link.html) | 上传 PDF，生成可分享链接。一次最多 5 份；按北京时间自然日，同一来源每天最多 10 份。可选择是否允许下载。Upload a PDF and get a shareable link. Up to 5 files at a time. Counted by the Beijing calendar day, the same source may upload at most 10 files a day. You can choose whether to allow download. |
+
 ## 🎯 现在主要做三件事 / Three things I do now
 
 - **用 AI 做产品。** 网站、小程序、浏览器插件和本地软件。Build products with AI: sites, mini programs, browser extensions, and local software.
@@ -59,6 +73,7 @@ Status follows the [works page](https://yscai101.com/works.html).
 
 - 继续迭代 FileDev、留痕、自我反思和 YSC GEO Lab。Keep shipping FileDev, Liuhen, Self-Reflection, and YSC GEO Lab.
 - 推进 MXMY 与 SayType。MXMY and SayType are in development.
+- 站点已上线精选工具：图片转PDF、Base64转换工具、网盘资源转JSON、高考倒计时、PDF转链接。Featured tools are live on the site.
 - 在 [yscai101.com](https://yscai101.com/blog.html) 公开记录真实实践。I publish the real progress on the site.
 - 实践 AI 编程出海与跨境电商。I practice AI coding for overseas work and cross-border ecommerce.
 
