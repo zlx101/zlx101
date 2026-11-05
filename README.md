@@ -31,6 +31,7 @@ Original public repositories. Star counts stay on the GitHub pages.
 | 仓库 / Repository | 说明 / Description |
 | --- | --- |
 | [SpruceAgent](https://github.com/zlx101/SpruceAgent) | 本地优先的 Agent 平台。A local-first agent platform. |
+| [Article-Creating-Skill](https://github.com/zlx101/Article-Creating-Skill) | 平台参数化的通用内容创作 Agent Skill：先定角度和思路，再产出有独立判断、原创不照搬的成稿，并附候选标题与发布前质检。A platform-parameterized content-creation Agent Skill: settle the angle first, then draft, with title candidates and a pre-publish check. |
 | [留痕 · AI 日记](https://github.com/zlx101/liuhen-ai-diary) | 以浏览器为入口的个人 AI 日记。Liuhen · AI Journal, a browser-first personal journal. |
 | [Cold-Shower-skill](https://github.com/zlx101/Cold-Shower-skill) | 让 AI 先泼冷水，直到泼不出来为止。适配 Claude Code、Claude、Codex、Cursor、Trae。Let the model throw cold water on an idea until it cannot. For Claude Code, Claude, Codex, Cursor, and Trae. |
 
