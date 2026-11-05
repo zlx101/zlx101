@@ -65,13 +65,15 @@ Tools already listed in the site footer. The first four run in the browser and a
 
 ## ✍️ 写作 / Writing
 
-长文发布在 [写作页](https://yscai101.com/blog.html)，目前收录 9 篇。新文章发出时发一封邮件，订阅与退订由 Substack 完成：[订阅](https://yscai101.substack.com/subscribe)。
+长文发布在 [写作页](https://yscai101.com/blog.html)，目前收录 11 篇。新文章发出时发一封邮件，订阅与退订由 Substack 完成：[订阅](https://yscai101.substack.com/subscribe)。
 
-Long essays live on the [writing page](https://yscai101.com/blog.html), 9 so far. New posts are announced by email; subscribe and unsubscribe are handled by Substack: [Subscribe](https://yscai101.substack.com/subscribe).
+Long essays live on the [writing page](https://yscai101.com/blog.html), 11 so far. New posts are announced by email; subscribe and unsubscribe are handled by Substack: [Subscribe](https://yscai101.substack.com/subscribe).
 
 | 长文 | 日期 |
 | --- | --- |
+| [如何做好自己的 AI 写作最佳实践？](https://yscai101.com/blog-post-ai-writing.md) | 2026-11-03 |
 | [找到一件值得重复做十年的事](https://yscai101.com/blog-post-long-game.md) | 2026-10-31 |
+| [Cursor 怎么接入 DeepSeek？](https://yscai101.com/blog-post-cursor-deepseek.md) | 2026-10-28 |
 | [未来，当经验可以做成 AI 产品时](https://yscai101.com/blog-post-experience-product.md) | 2026-10-09 |
 | [给网站加一份 llms.txt，让 AI 更容易用对你的内容](https://yscai101.com/blog-post-llms-txt.md) | 2026-09-07 |
 | [全部长文 / All essays](https://yscai101.com/blog.html) | — |
