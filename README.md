@@ -63,15 +63,17 @@ Tools already listed in the site footer. The first four run in the browser and a
 | [网盘资源转JSON](https://yscai101.com/wpzy-json.html) | 把网盘分享文本转成 JSON。数据留在本机，不会上传。Turn cloud-disk share text into JSON in the browser. Data is not uploaded. |
 | [高考倒计时](https://yscai101.com/gaokao.html) | 2027 年高考倒计时，按北京时间计算。Countdown to the 2027 Gaokao, using Beijing time. |
 | [PDF转链接](https://yscai101.com/pdf2link.html) | 上传 PDF，生成可分享链接。一次最多 5 份；按北京时间自然日，同一来源每天最多 10 份。可选择是否允许下载。Upload a PDF and get a shareable link. Up to 5 files at a time. Counted by the Beijing calendar day, the same source may upload at most 10 files a day. You can choose whether to allow download. |
+| [短链接生成器](https://yscai101.com/shortlink.html) | 把长链接生成本站根路径的六位短地址，可自定义后缀，每天最多 10 条，无需注册。Turn a long link into a six-character yscai101.com/ short link, with an optional custom suffix, up to 10 a day, no sign-up. |
 
 ## ✍️ 写作 / Writing
 
-长文发布在 [写作页](https://yscai101.com/blog.html)，目前收录 11 篇。新文章发出时发一封邮件，订阅与退订由 Substack 完成：[订阅](https://yscai101.substack.com/subscribe)。
+长文发布在 [写作页](https://yscai101.com/blog.html)，目前收录 12 篇。新文章发出时发一封邮件，订阅与退订由 Substack 完成：[订阅](https://yscai101.substack.com/subscribe)。
 
-Long essays live on the [writing page](https://yscai101.com/blog.html), 11 so far. New posts are announced by email; subscribe and unsubscribe are handled by Substack: [Subscribe](https://yscai101.substack.com/subscribe).
+Long essays live on the [writing page](https://yscai101.com/blog.html), 12 so far. New posts are announced by email; subscribe and unsubscribe are handled by Substack: [Subscribe](https://yscai101.substack.com/subscribe).
 
 | 长文 | 日期 |
 | --- | --- |
+| [还想着给人做App？](https://yscai101.com/blog-post-agent-app.md) | 2026-11-05 |
 | [如何做好自己的 AI 写作最佳实践？](https://yscai101.com/blog-post-ai-writing.md) | 2026-11-03 |
 | [找到一件值得重复做十年的事](https://yscai101.com/blog-post-long-game.md) | 2026-10-31 |
 | [Cursor 怎么接入 DeepSeek？](https://yscai101.com/blog-post-cursor-deepseek.md) | 2026-10-28 |
