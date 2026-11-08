@@ -45,7 +45,7 @@ Status follows the [works page](https://yscai101.com/works.html).
 | --- | --- | --- |
 | [FileDev](https://filedev.dev/) | 把试错沉淀成更准的决策。Turn trial and error into better decisions. 网站与微信小程序。Website and WeChat mini program. | 已上线 / Live |
 | [留痕 · AI 日记](https://chromewebstore.google.com/detail/hbhhlinpobccpfbgpkfkgefacmnmldgd) | 浏览时留下外部输入和当下判断。Leave the input and the feeling while browsing. [仓库](https://github.com/zlx101/liuhen-ai-diary) | 已上架 v0.3.3 / Chrome Web Store, v0.3.3 |
-| [自我反思](https://ziwofan.si/) | 清晨设定意图，夜晚复盘。Set an intention in the morning and review at night. | 已上线 / Live |
+| [自我反思](https://ziwofan.si/) | 反思记录与经验交流社区：日用每天一题，内观按六类主题交流，静写收回目光。A reflection journal and community: one prompt a day, six themes to exchange, and quiet writing. | 已上线 / Live |
 | [YSC GEO Lab](https://yscai101.com/geo.html) | 让品牌被 AI 准确理解。Help AI understand a brand accurately. [工作台](https://geo.yscai101.com/diagnostic) | 已上线 / Live |
 | MXMY · 秘心秘语 | 本地优先的私人日记。A local-first private journal. | 开发中 / In development |
 | SayType | 说话即打字，在任意应用中粘贴。Speak to type, then paste in any app. | 开发中 / In development |
@@ -62,17 +62,19 @@ Tools already listed in the site footer. The first four run in the browser and a
 | [Base64转换工具](https://yscai101.com/base64.html) | 文本和图片的 Base64 编码转换。数据不会上传。Encode and decode Base64 for text and images in the browser. Data is not uploaded. |
 | [网盘资源转JSON](https://yscai101.com/wpzy-json.html) | 把网盘分享文本转成 JSON。数据留在本机，不会上传。Turn cloud-disk share text into JSON in the browser. Data is not uploaded. |
 | [高考倒计时](https://yscai101.com/gaokao.html) | 2027 年高考倒计时，按北京时间计算。Countdown to the 2027 Gaokao, using Beijing time. |
-| [PDF转链接](https://yscai101.com/pdf2link.html) | 上传 PDF，生成可分享链接。一次最多 5 份；按北京时间自然日，同一来源每天最多 10 份。可选择是否允许下载。Upload a PDF and get a shareable link. Up to 5 files at a time. Counted by the Beijing calendar day, the same source may upload at most 10 files a day. You can choose whether to allow download. |
+| [PDF转链接](https://yscai101.com/pdf2link.html) | 上传 PDF，生成可分享链接。一次最多 3 份，每份最大 100MB；按北京时间自然日，同一来源每天最多 5 份，默认保留约 90 天。可选择是否允许下载。Upload a PDF and get a shareable link. Up to 3 files at a time, 100 MB each; counted by the Beijing calendar day, the same source may upload at most 5 files a day, kept about 90 days by default. You can choose whether to allow download. |
 | [短链接生成器](https://yscai101.com/shortlink.html) | 把长链接生成本站根路径的六位短地址，可自定义后缀，每天最多 10 条，无需注册。Turn a long link into a six-character yscai101.com/ short link, with an optional custom suffix, up to 10 a day, no sign-up. |
 
 ## ✍️ 写作 / Writing
 
-长文发布在 [写作页](https://yscai101.com/blog.html)，目前收录 12 篇。新文章发出时发一封邮件，订阅与退订由 Substack 完成：[订阅](https://yscai101.substack.com/subscribe)。
+长文发布在 [写作页](https://yscai101.com/blog.html)，目前收录 14 篇。新文章发出时发一封邮件，订阅与退订由 Substack 完成：[订阅](https://yscai101.substack.com/subscribe)。
 
-Long essays live on the [writing page](https://yscai101.com/blog.html), 12 so far. New posts are announced by email; subscribe and unsubscribe are handled by Substack: [Subscribe](https://yscai101.substack.com/subscribe).
+Long essays live on the [writing page](https://yscai101.com/blog.html), 14 so far. New posts are announced by email; subscribe and unsubscribe are handled by Substack: [Subscribe](https://yscai101.substack.com/subscribe).
 
 | 长文 | 日期 |
 | --- | --- |
+| [一套通用的电商选品法](https://yscai101.com/blog-post-ecommerce-selection.md) | 2026-11-08 |
+| [送你一份 AI 网站设计工程书](https://yscai101.com/blog-post-design-engine.md) | 2026-11-07 |
 | [还想着给人做App？](https://yscai101.com/blog-post-agent-app.md) | 2026-11-05 |
 | [如何做好自己的 AI 写作最佳实践？](https://yscai101.com/blog-post-ai-writing.md) | 2026-11-03 |
 | [找到一件值得重复做十年的事](https://yscai101.com/blog-post-long-game.md) | 2026-10-31 |
@@ -84,14 +86,14 @@ Long essays live on the [writing page](https://yscai101.com/blog.html), 12 so fa
 ## 🎯 现在主要做三件事 / Three things I do now
 
 - **用 AI 做产品。** 网站、小程序、浏览器插件和本地软件。Build products with AI: sites, mini programs, browser extensions, and local software.
-- **搭建内容工作流。** Codex、Claude Code、Obsidian、飞书知识库、Skill 与自动化。已服务 15 位以上客户。Build content workflows with those tools. 15+ clients so far.
+- **搭建内容工作流。** Codex、Claude Code、Obsidian、飞书知识库、Skill 与自动化。已服务 20 位以上客户。Build content workflows with those tools. 20+ clients so far.
 - **写内容，做个人业务。** 围绕 AI 编程、出海、工作流和工具实践持续记录。Write about AI coding, going overseas, workflows, and tools, and keep a public record.
 
 ## 🛠️ 正在做的事 / What I am doing
 
 - 继续迭代 FileDev、留痕、自我反思和 YSC GEO Lab。Keep shipping FileDev, Liuhen, Self-Reflection, and YSC GEO Lab.
 - 推进 MXMY 与 SayType。MXMY and SayType are in development.
-- 站点已上线精选工具：图片转PDF、Base64转换工具、网盘资源转JSON、高考倒计时、PDF转链接。Featured tools are live on the site.
+- 站点已上线精选工具：图片转PDF、Base64转换工具、网盘资源转JSON、高考倒计时、PDF转链接、短链接生成器。Featured tools are live on the site.
 - 在 [yscai101.com](https://yscai101.com/blog.html) 公开记录真实实践，长文末尾提供邮件订阅。I publish the real progress on the site, with email subscriptions at the end of each essay.
 - 实践 AI 编程出海与跨境电商。I practice AI coding for overseas work and cross-border ecommerce.
 
